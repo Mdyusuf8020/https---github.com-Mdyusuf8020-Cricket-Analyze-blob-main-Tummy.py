@@ -220,6 +220,7 @@ if menu == 'Analysis':
                                            marker=dict(color='orange'),
                                            mode = 'lines+markers'))
                 st.plotly_chart(fig)
+                #ok
 
             #-----------------------------------------------------------------#
 
